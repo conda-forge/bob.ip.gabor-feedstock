@@ -33,7 +33,6 @@ conda search bob.ip.gabor --channel conda-forge
 ```
 
 
-
 About conda-forge
 =================
 
